@@ -1,0 +1,17 @@
+
+
+
+streamlit
+numpy
+pandas
+opencv-python-headless
+tensorflow
+keras
+pillow
+rembg
+moviepy
+requests
+pathlib
+langchain
+langchain-core
+python-dotenv
