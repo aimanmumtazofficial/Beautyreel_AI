@@ -40,7 +40,7 @@ font                      = "sans serif"
 #  CONFIG
 # =============================================================================
 
-HF_TOKEN   = "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"
+HF_TOKEN   = "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" 
 FLUX_URL   = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell"
 TARGET_W   = 1080
 TARGET_H   = 1920
